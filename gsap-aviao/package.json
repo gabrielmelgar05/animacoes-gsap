@@ -1,0 +1,17 @@
+{
+  "name": "gsap-aviao",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "script.js",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "preview": "vite preview"
+    },
+  "devDependencies": {
+    "vite": "^8.0.8"
+  }
+}
