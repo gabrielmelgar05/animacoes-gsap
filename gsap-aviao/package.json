@@ -1,17 +1,17 @@
 {
-  "name": "gsap-aviao",
+  "name": "codegrid-jeskojets-scroll-animation",
   "version": "1.0.0",
-  "description": "",
-  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
   "author": "",
-  "type": "commonjs",
-  "main": "script.js",
-    "scripts": {
-      "dev": "vite",
-      "build": "vite build",
-      "preview": "vite preview"
-    },
-  "devDependencies": {
-    "vite": "^8.0.8"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.14.2",
+    "lenis": "^1.3.17",
+    "vite": "^7.3.1"
   }
 }
